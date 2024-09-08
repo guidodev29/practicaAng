@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./practica2.component.css']
 })
 export class Practica2Component {
-  title = 'oneWayBindingUFG';
+  title = 'UFG';
   tituloAEnviar = 'Titulo enviado desde el padre al hijo';
   mensajeARecivir: string = ''
 
